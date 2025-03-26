@@ -25,12 +25,12 @@ C:\Users\gabry\Desktop\Computer\Developing\Progetti\TrojanCreator\Stub\obj\Relea
 C:\Users\gabry\Desktop\Computer\Developing\Progetti\TrojanCreator\Stub\obj\Release\Stub.csproj.GenerateResource.cache
 C:\Users\gabry\Desktop\Computer\Developing\Progetti\TrojanCreator\Stub\obj\Release\Stub.csproj.CoreCompileInputs.cache
 C:\Users\gabry\Desktop\Computer\Developing\Progetti\TrojanCreator\Stub\obj\Release\Stub.exe
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\Stub\bin\Release\Stub.exe.config
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\Stub\bin\Release\Stub.exe
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\Stub\obj\Release\Stub.csproj.AssemblyReference.cache
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\Stub\obj\Release\Jumpscare.resources
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\Stub\obj\Release\MainForm.resources
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\Stub\obj\Release\Stub.Properties.Resources.resources
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\Stub\obj\Release\Stub.csproj.GenerateResource.cache
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\Stub\obj\Release\Stub.csproj.CoreCompileInputs.cache
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\Stub\obj\Release\Stub.exe
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\Stub\bin\Release\Stub.exe.config
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\Stub\bin\Release\Stub.exe
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\Stub\obj\Release\Stub.csproj.AssemblyReference.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\Stub\obj\Release\Jumpscare.resources
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\Stub\obj\Release\MainForm.resources
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\Stub\obj\Release\Stub.Properties.Resources.resources
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\Stub\obj\Release\Stub.csproj.GenerateResource.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\Stub\obj\Release\Stub.csproj.CoreCompileInputs.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\Stub\obj\Release\Stub.exe
