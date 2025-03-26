@@ -34,14 +34,14 @@ C:\Users\gabry\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\
 C:\Users\gabry\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.CoreCompileInputs.cache
 C:\Users\gabry\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.CopyComplete
 C:\Users\gabry\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.exe
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\TrojanCreator\bin\Release\TrojanCreator.exe.config
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\TrojanCreator\bin\Release\TrojanCreator.exe
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.AssemblyReference.cache
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.Properties.Resources.resources
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\SetDetails.resources
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\GetDetails.resources
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\MainForm.resources
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.GenerateResource.cache
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.CoreCompileInputs.cache
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.CopyComplete
-C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.exe
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\bin\Release\TrojanCreator.exe.config
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\bin\Release\TrojanCreator.exe
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.AssemblyReference.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.Properties.Resources.resources
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\SetDetails.resources
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\GetDetails.resources
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\MainForm.resources
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.GenerateResource.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.CoreCompileInputs.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.CopyComplete
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.exe
