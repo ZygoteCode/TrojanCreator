@@ -1,0 +1,47 @@
+C:\Users\ZygoteCode\Desktop\TrojanCreator\TrojanCreator\bin\Release\TrojanCreator.exe.config
+C:\Users\ZygoteCode\Desktop\TrojanCreator\TrojanCreator\bin\Release\TrojanCreator.exe
+C:\Users\ZygoteCode\Desktop\TrojanCreator\TrojanCreator\bin\Release\Guna.UI.dll
+C:\Users\ZygoteCode\Desktop\TrojanCreator\TrojanCreator\bin\Release\MetroSuite 2.0.dll
+C:\Users\ZygoteCode\Desktop\TrojanCreator\TrojanCreator\bin\Release\Siticone.UI.dll
+C:\Users\ZygoteCode\Desktop\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.Properties.Resources.resources
+C:\Users\ZygoteCode\Desktop\TrojanCreator\TrojanCreator\obj\Release\SetDetails.resources
+C:\Users\ZygoteCode\Desktop\TrojanCreator\TrojanCreator\obj\Release\GetDetails.resources
+C:\Users\ZygoteCode\Desktop\TrojanCreator\TrojanCreator\obj\Release\MainForm.resources
+C:\Users\ZygoteCode\Desktop\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.Properties.Resources.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\SetDetails.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\GetDetails.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\MainForm.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\bin\Release\TrojanCreator.exe.config
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\bin\Release\TrojanCreator.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\bin\Release\TrojanCreator.exe.config
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\bin\Release\TrojanCreator.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.Properties.Resources.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\SetDetails.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\GetDetails.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\MainForm.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\bin\Release\TrojanCreator.exe.config
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\bin\Release\TrojanCreator.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.Properties.Resources.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\SetDetails.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\GetDetails.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\MainForm.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\TrojanCreator\TrojanCreator\obj\Release\TrojanCreator.exe
